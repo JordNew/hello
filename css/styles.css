@@ -8,7 +8,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    /* min-width: 1550px; */
+    color: #40514E
 }
 
 h1 {
@@ -178,6 +178,10 @@ hr {
 #get-in-touch-sub-p {
     width: 50%;
     margin: auto;
+}
+
+#pro {
+    text-decoration: underline;
 }
 
 #profile-img {
