@@ -132,6 +132,7 @@ hr {
     width: 100px;
     float: left;
     margin-right: 30px;
+    border-radius: 20px;
 }
 
 .middle-container {
